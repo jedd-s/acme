@@ -1,13 +1,7 @@
 {
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "scripts": {
-    "dev": "yarn workspace b dev",
-    "build": "yarn workspace b build",
-    "start": "yarn workspace b start"
-  },
+  "workspaces": ["packages/*"],
+  "scripts": {},
   "devDependencies": {
     "@babel/cli": "^7.15.4",
     "@babel/core": "^7.15.5",
