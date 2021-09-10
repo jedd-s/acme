@@ -1,0 +1,10 @@
+# third party
+**/node_modules
+**/vendor
+**/tmp
+**/build
+**/dist
+**/.next
+**/.vercel
+# *.json
+# **/*.json

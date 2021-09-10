@@ -1,0 +1,15 @@
+{
+  "name": "a",
+  "type": "module",
+  "description": "package a.",
+  "files": ["index.js"],
+  "exports": {
+    ".": {
+      "default": "./index.js"
+    }
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
