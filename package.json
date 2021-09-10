@@ -1,9 +1,8 @@
 {
   "private": true,
-  "workspaces": ["packages/*"],
-  "engines": {
-    "node": ">=16.0.0"
-  },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "dev": "yarn workspace b dev",
     "build": "yarn workspace b build",

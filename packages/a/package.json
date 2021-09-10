@@ -2,7 +2,9 @@
   "name": "a",
   "type": "module",
   "description": "package a.",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "exports": {
     ".": {
       "default": "./index.js"
