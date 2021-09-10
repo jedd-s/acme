@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "acme-project",
   "workspaces": ["packages/*"],
   "scripts": {},
   "devDependencies": {
